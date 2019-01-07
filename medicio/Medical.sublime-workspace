@@ -1,0 +1,1099 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pi",
+				"pitchHeight"
+			],
+			[
+				"lo",
+				"logoHeight"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"pitch",
+				"pitch-video"
+			],
+			[
+				"ov",
+				"overflow-x"
+			],
+			[
+				"ove",
+				"overflow-y"
+			],
+			[
+				"bacgr",
+				"background-image"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"more",
+				"more-content2"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"cart",
+				"cart"
+			],
+			[
+				"ca",
+				"cartValue"
+			],
+			[
+				"background-i",
+				"background-image"
+			],
+			[
+				"partner",
+				"partnership-more"
+			],
+			[
+				"j",
+				"justify-content"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"quote",
+				"quote-content"
+			],
+			[
+				"fa",
+				"fadeIn"
+			],
+			[
+				"send",
+				"sendQuote"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mobile",
+				"mobile-first"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"tabe",
+				"table-cell"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"compet",
+				"competitions"
+			],
+			[
+				"l",
+				"lighter"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"s",
+				"static"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"cha",
+				"changeText"
+			],
+			[
+				"magin",
+				"margin-bottom"
+			],
+			[
+				"st",
+				"sticky"
+			],
+			[
+				"int",
+				"inherit"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"BOR",
+				"border-color"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"add",
+				"add_more_email"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"bro",
+				"border-collapse"
+			],
+			[
+				"border-c",
+				"border-collapse"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"que",
+				"Question"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"dis",
+				"displayFeed"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"col-md",
+				"col-md-6"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"pane",
+				"panel-body"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"center",
+				"center-block"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"tec",
+				"text-decoration"
+			],
+			[
+				"onC",
+				"onclick\tAttr"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"che",
+				"checkVis"
+			],
+			[
+				"col-",
+				"col-lg-4"
+			],
+			[
+				"pan",
+				"panel-default"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"alin",
+				"align-content"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/style-3.css",
+			"settings":
+			{
+				"buffer_size": 55308,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 11 files for \"boxes\"\n\nD:\\Christ\\Research\\medicio\\js\\wow.min.js:\n    1  /*! WOW - v1.0.1 - 2014-08-15\n    2: * Copyright (c) 2014 Matthieu Aussaguel; Licensed MIT */(function(){var a,b,c,d=function(a,b){return function(){return a.apply(b,arguments)}},e=[].indexOf||function(a){for(var b=0,c=this.length;c>b;b++)if(b in this&&this[b]===a)return b;return-1};b=function(){function a(){}return a.prototype.extend=function(a,b){var c,d;for(c in b)d=b[c],null==a[c]&&(a[c]=d);return a},a.prototype.isMobile=function(a){return/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(a)},a}(),c=this.WeakMap||this.MozWeakMap||(c=function(){function a(){this.keys=[],this.values=[]}return a.prototype.get=function(a){var b,c,d,e,f;for(f=this.keys,b=d=0,e=f.length;e>d;b=++d)if(c=f[b],c===a)return this.values[b]},a.prototype.set=function(a,b){var c,d,e,f,g;for(g=this.keys,c=e=0,f=g.length;f>e;c=++e)if(d=g[c],d===a)return void(this.values[c]=b);return this.keys.push(a),this.values.push(b)},a}()),a=this.MutationObserver||this.WebkitMutationObserver||this.MozMutationObserver||(a=function(){function a(){console.warn(\"MutationObserver is not supported by your browser.\"),console.warn(\"WOW.js cannot detect dom mutations, please call .sync() after loading new content.\")}return a.notSupported=!0,a.prototype.observe=function(){},a}()),this.WOW=function(){function f(a){null==a&&(a={}),this.scrollCallback=d(this.scrollCallback,this),this.scrollHandler=d(this.scrollHandler,this),this.start=d(this.start,this),this.scrolled=!0,this.config=this.util().extend(a,this.defaults),this.animationNameCache=new c}return f.prototype.defaults={boxClass:\"wow\",animateClass:\"animated\",offset:0,mobile:!0,live:!0},f.prototype.init=function(){var a;return this.element=window.document.documentElement,\"interactive\"===(a=document.readyState)||\"complete\"===a?this.start():document.addEventListener(\"DOMContentLoaded\",this.start),this.finished=[]},f.prototype.start=function(){var b,c,d,e;if(this.stopped=!1,this.boxes=function(){var a,c,d,e;for(d=this.element.querySelectorAll(\".\"+this.config.boxClass),e=[],a=0,c=d.length;c>a;a++)b=d[a],e.push(b);return e}.call(this),this.all=function(){var a,c,d,e;for(d=this.boxes,e=[],a=0,c=d.length;c>a;a++)b=d[a],e.push(b);return e}.call(this),this.boxes.length)if(this.disabled())this.resetStyle();else{for(e=this.boxes,c=0,d=e.length;d>c;c++)b=e[c],this.applyStyle(b,!0);window.addEventListener(\"scroll\",this.scrollHandler,!1),window.addEventListener(\"resize\",this.scrollHandler,!1),this.interval=setInterval(this.scrollCallback,50)}return this.config.live?new a(function(a){return function(b){var c,d,e,f,g;for(g=[],e=0,f=b.length;f>e;e++)d=b[e],g.push(function(){var a,b,e,f;for(e=d.addedNodes||[],f=[],a=0,b=e.length;b>a;a++)c=e[a],f.push(this.doSync(c));return f}.call(a));return g}}(this)).observe(document.body,{childList:!0,subtree:!0}):void 0},f.prototype.stop=function(){return this.stopped=!0,window.removeEventListener(\"scroll\",this.scrollHandler,!1),window.removeEventListener(\"resize\",this.scrollHandler,!1),null!=this.interval?clearInterval(this.interval):void 0},f.prototype.sync=function(){return a.notSupported?this.doSync(this.element):void 0},f.prototype.doSync=function(a){var b,c,d,f,g;if(!this.stopped){if(null==a&&(a=this.element),1!==a.nodeType)return;for(a=a.parentNode||a,f=a.querySelectorAll(\".\"+this.config.boxClass),g=[],c=0,d=f.length;d>c;c++)b=f[c],e.call(this.all,b)<0?(this.applyStyle(b,!0),this.boxes.push(b),this.all.push(b),g.push(this.scrolled=!0)):g.push(void 0);return g}},f.prototype.show=function(a){return this.applyStyle(a),a.className=\"\"+a.className+\" \"+this.config.animateClass},f.prototype.applyStyle=function(a,b){var c,d,e;return d=a.getAttribute(\"data-wow-duration\"),c=a.getAttribute(\"data-wow-delay\"),e=a.getAttribute(\"data-wow-iteration\"),this.animate(function(f){return function(){return f.customStyle(a,b,d,c,e)}}(this))},f.prototype.animate=function(){return\"requestAnimationFrame\"in window?function(a){return window.requestAnimationFrame(a)}:function(a){return a()}}(),f.prototype.resetStyle=function(){var a,b,c,d,e;for(d=this.boxes,e=[],b=0,c=d.length;c>b;b++)a=d[b],e.push(a.setAttribute(\"style\",\"visibility: visible;\"));return e},f.prototype.customStyle=function(a,b,c,d,e){return b&&this.cacheAnimationName(a),a.style.visibility=b?\"hidden\":\"visible\",c&&this.vendorSet(a.style,{animationDuration:c}),d&&this.vendorSet(a.style,{animationDelay:d}),e&&this.vendorSet(a.style,{animationIterationCount:e}),this.vendorSet(a.style,{animationName:b?\"none\":this.cachedAnimationName(a)}),a},f.prototype.vendors=[\"moz\",\"webkit\"],f.prototype.vendorSet=function(a,b){var c,d,e,f;f=[];for(c in b)d=b[c],a[\"\"+c]=d,f.push(function(){var b,f,g,h;for(g=this.vendors,h=[],b=0,f=g.length;f>b;b++)e=g[b],h.push(a[\"\"+e+c.charAt(0).toUpperCase()+c.substr(1)]=d);return h}.call(this));return f},f.prototype.vendorCSS=function(a,b){var c,d,e,f,g,h;for(d=window.getComputedStyle(a),c=d.getPropertyCSSValue(b),h=this.vendors,f=0,g=h.length;g>f;f++)e=h[f],c=c||d.getPropertyCSSValue(\"-\"+e+\"-\"+b);return c},f.prototype.animationName=function(a){var b;try{b=this.vendorCSS(a,\"animation-name\").cssText}catch(c){b=window.getComputedStyle(a).getPropertyValue(\"animation-name\")}return\"none\"===b?\"\":b},f.prototype.cacheAnimationName=function(a){return this.animationNameCache.set(a,this.animationName(a))},f.prototype.cachedAnimationName=function(a){return this.animationNameCache.get(a)},f.prototype.scrollHandler=function(){return this.scrolled=!0},f.prototype.scrollCallback=function(){var a;return!this.scrolled||(this.scrolled=!1,this.boxes=function(){var b,c,d,e;for(d=this.boxes,e=[],b=0,c=d.length;c>b;b++)a=d[b],a&&(this.isVisible(a)?this.show(a):e.push(a));return e}.call(this),this.boxes.length||this.config.live)?void 0:this.stop()},f.prototype.offsetTop=function(a){for(var b;void 0===a.offsetTop;)a=a.parentNode;for(b=a.offsetTop;a=a.offsetParent;)b+=a.offsetTop;return b},f.prototype.isVisible=function(a){var b,c,d,e,f;return c=a.getAttribute(\"data-wow-offset\")||this.config.offset,f=window.pageYOffset,e=f+Math.min(this.element.clientHeight,innerHeight)-c,d=this.offsetTop(a),b=d+a.clientHeight,e>=d&&b>=f},f.prototype.util=function(){return null!=this._util?this._util:this._util=new b},f.prototype.disabled=function(){return!this.config.mobile&&this.util().isMobile(navigator.userAgent)},f}()}).call(this);\n\n9 matches in 1 file\n\n\nSearching 11 files for \"b40808\"\n\n0 matches\n\nSearching 11 files for \"b40808\"\n\n0 matches",
+			"settings":
+			{
+				"buffer_size": 6497,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "js/wow.min.js",
+			"settings":
+			{
+				"buffer_size": 6299,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 19934,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index-2.html",
+			"settings":
+			{
+				"buffer_size": 19784,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index-3.html",
+			"settings":
+			{
+				"buffer_size": 19936,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 490.0
+	},
+	"console":
+	{
+		"height": 499.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Christ/Research/medicio",
+		"/D/Christ/Research/medicio/js"
+	],
+	"file_history":
+	[
+		"/D/Christ/Research/Online Shopping/themes/css/base.css",
+		"/D/Christ/Research/Online Shopping/themes/css/app-3.css",
+		"/D/Christ/Research/Online Shopping/themes/css/app.css",
+		"/D/Christ/Research/Online Shopping/index-3.html",
+		"/D/Christ/Research/Online Shopping/index.html",
+		"/D/Christ/WE/rest sample/server.js",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/buy-now.html",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/js/main.js",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/index.html",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/css/component.css",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/email-quote.php",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/email.php",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/emailcode.js",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/app/Http/Controllers/Controller.php",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/css/main.css",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/resources/views/partials/head.blade.php",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/js/bootstrap.min.js",
+		"/C/Users/john-/Desktop/Vincent Project/DotNavigationStyles/index.html",
+		"/C/Users/john-/Desktop/Vincent Project/DotNavigationStyles/js/dots.js",
+		"/C/Users/john-/AppData/Local/Temp/fz3temp-2/index.html",
+		"/C/Users/john-/Desktop/Vincent Project/vertical-fixed-navigation-master/index.html",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/css/main-site.css",
+		"/C/Users/john-/Desktop/Vincent Project/vertical-fixed-navigation-master/css/style.css",
+		"/C/Users/john-/Desktop/Vincent Project/vertical-fixed-navigation-master/css/reset.css",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/js/dots.js",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/js/modernizr.min.js",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/node_modules/postcss-merge-longhand/dist/lib/canMerge.js",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/resources/views/partials/footer.blade.php",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/resources/views/partials/footer-script.blade.php",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/js/jquery.js",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/home2.html",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/resources/views/partials/header.blade.php",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/resources/views/layouts/app.blade.php",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/resources/views/home.blade.php",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/BK FILES/index.html",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/node_modules/jquery/dist/jquery.js",
+		"/C/Users/john-/AppData/Local/Temp/fz3temp-2/main.css",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/BK FILES/main.css",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/BK FILES/main.js",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/users/news-feed.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/users/partials/news-feed-n-profile-post.blade.php",
+		"/C/Users/john-/AppData/Local/Packages/Microsoft.SkypeApp_kzf8qxf38zg5c/LocalState/Downloads/index.html",
+		"/C/Users/john-/AppData/Local/Temp/fz3temp-2/buy-now.html",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/images/page-bg.jpg",
+		"/C/xampp/php/php.ini",
+		"/C/Users/john-/AppData/Local/Temp/fz3temp-2/email-quote.php",
+		"/C/Users/john-/AppData/Local/Temp/fz3temp-2/emailcode.js",
+		"/C/Users/john-/AppData/Local/Temp/fz3temp-2/main.js",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/js/main-bk 2-6.js",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/composer.lock",
+		"/C/Users/john-/AppData/Local/Temp/Rar$DIa1344.31686/email.php",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/BUY NOW BACKEND.html",
+		"/C/Users/john-/AppData/Local/Temp/fz3temp-2/email.php",
+		"/C/Users/john-/AppData/Local/Packages/Microsoft.SkypeApp_kzf8qxf38zg5c/LocalState/Downloads/email.php",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/routes/web.php",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/Project - MFF/index.html",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/Project - MFF/css/main.css",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/index.php",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/Project - MFF/home.html",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/.env",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/css/main2.css",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/resources/views/home-old.blade.php",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/resources/views/home2.html",
+		"/C/Users/john-/Desktop/Vincent Project/MFF-Oded/public/.htaccess",
+		"/C/Users/john-/Desktop/index.html",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/sqrfactor/faqs2.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/sqrfactor/version1/about-us.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/users/competition-list.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/users/competition-find.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/users/compition-list.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/users/event-list.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/users/partials/competitions-header.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/public/js/news-feed-img-dimention.js",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/users/partials/head.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/routes/web.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/admin/login.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/auth/passwords/email.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/sqrfactor/partials/header.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/sqrfactor/privacy-policy.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/sqrfactor/partials/footer.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/database/migrations/2018_04_22_114457_create_page_views_table.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/public/js/main-users.js",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-main-development/public/js/chatMsg.js",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/users/design.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/storage/framework/views/5a23cfbb4a651102efc4b40fe97a75bc0f37e702.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/app/Http/Controllers/User/PostDetailController.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/public/css/messages/messages.css",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/assets/js/components/Chat.vue",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/public/js/odometer.js",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/public/css/odometer.css",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-main-copy/.env",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-main-copy/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/.env",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/vendor/cyrildewit/laravel-page-view-counter/src/PageViewCounter/Traits/HasPageViewCounter.php",
+		"/C/Users/john-/Downloads/faq.html",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/public/assets/css/style.min.css",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-main-copy/public/css/messages/messages.css",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-main-copy/public/css/messages.css",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/public/css/messages.css",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/public/assets/css/app.css",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-main-old/resources/views/users/partials/news-feed-n-profile-post.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/public/js/article-add-class.js",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/public/assets/js/croppie.min.js",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/public/assets/css/croppie.min.css",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/users/partials/cropping-banner-article.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/users/article.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/users/partials/footer-script.blade.php",
+		"/C/Users/john-/AppData/Local/Temp/Rar$EXa4980.24548/rcrop-master/demos/basic.html",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/sqrfactor/version1/create-content.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/sqrfactor/partials/head.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/sqrfactor/version1/home-v1.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/public/js/main-users.min.js",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-main-copy/public/js/jquery.fullPage.js",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-main-copy/resources/views/layouts/app-sqrfactor.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-main-copy/resources/views/layouts/app-users.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/layouts/app-users.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/public/css/app.css",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-main-copy/public/assets/css/app.css",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/public/assets/css/site.css",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/public/css/messages/site.css",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-main-old/resources/views/users/partials/user-left-sidebar2.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/users/all-messanger.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-main-copy/resources/views/users/all-messanger.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-main-copy/resources/views/sqrfactor/partials/footer-script.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-live/resources/views/sqrfactor/partials/footer-script.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-main-copy/resources/views/sqrfactor/version1/home-v1.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-main-copy/resources/views/sqrfactor/version1/create-content.blade.php",
+		"/C/Users/john-/Desktop/SQRFACTOR/sqrfactor-main-copy/resources/views/sqrfactor/privacy-policy.blade.php"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 782.0,
+		"where_history":
+		[
+			"D:\\Christ\\Research\\medicio\\css\\style-3.css",
+			"D:\\Christ\\Research\\medicio\\js",
+			"C:\\Users\\john-\\Desktop\\Vincent Project\\MFF-Oded\\public\\js",
+			"C:\\Users\\john-\\Desktop\\SQRFACTOR\\sqrfactor-live\\public",
+			"C:\\Users\\john-\\Desktop\\Vincent Project\\MFF-Oded\\storage"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#b40808",
+			"b40808",
+			"john",
+			"cbp",
+			"b40808",
+			"ffd403",
+			"b40808",
+			"john",
+			"John",
+			"john",
+			"fadeInUp",
+			"wow",
+			"boxes",
+			".cbp-l-grid-team-name",
+			"boxes",
+			".top-area",
+			"tag",
+			"new.png",
+			"login",
+			"155",
+			"left carousel-control",
+			"well well",
+			"well well-small",
+			"featured",
+			"carousel slide",
+			"myCarousel",
+			"carousel slide",
+			"tooltip",
+			"border-radiu",
+			"0px",
+			"mobile-first-sec",
+			"mobile-first-layers-content",
+			"layers-te",
+			"body",
+			"html",
+			"more-",
+			"padding-righ",
+			"modal-open",
+			"more-content6",
+			"mobile",
+			"comment",
+			"more-contentne",
+			"more-conten",
+			"more-c",
+			"click.dismiss.bs.modal",
+			"data-dismiss",
+			"social-share",
+			"social",
+			"share",
+			"shareModal",
+			"shareMo",
+			".more-con",
+			"buy2",
+			"effect",
+			"quote",
+			"add1",
+			"}\n",
+			"inside",
+			"quote-dat",
+			"insi",
+			"li",
+			".li",
+			"inside-buy",
+			"page-titl",
+			".cart",
+			".quote",
+			"inside-",
+			"cart",
+			"matches",
+			"demo-sec",
+			"partnership-more",
+			".get-involved-part",
+			"col-12",
+			"navbar",
+			"partnership-form",
+			"fixed",
+			"('.')",
+			"sendQuote",
+			"col-12",
+			"helper",
+			"img",
+			"get-involved-part",
+			"partners",
+			"layers-content",
+			"img",
+			"partners-part",
+			"-part",
+			" div",
+			"%;\n",
+			"layers-par",
+			"-sec",
+			"-sectio",
+			"-hea",
+			"background-col",
+			"feature2",
+			"mobile-first-layers-part",
+			"-section",
+			"img",
+			"#",
+			"john",
+			"color:",
+			"backg",
+			"nav ",
+			"img",
+			"background-color",
+			"pitch-video",
+			"px",
+			"<li",
+			"box-shadow",
+			"background-im"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#ffd403",
+			"ffd403"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/style-3.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 55308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5393,
+								5393
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4470.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6497,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										2008,
+										2013
+									],
+									[
+										2208,
+										2213
+									],
+									[
+										2285,
+										2290
+									],
+									[
+										2351,
+										2356
+									],
+									[
+										3467,
+										3472
+									],
+									[
+										4121,
+										4126
+									],
+									[
+										5602,
+										5607
+									],
+									[
+										5642,
+										5647
+									],
+									[
+										5755,
+										5760
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								6454,
+								6454
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 3,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1008.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/wow.min.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1920,
+								1925
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 14378.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15859,
+								15859
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6797.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index-2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12780,
+								12772
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6203.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "index-3.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15861,
+								15861
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6797.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 252.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "/D/Christ/Research/Color palettes.sublime-project",
+	"replace":
+	{
+		"height": 53.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,133 @@
+#logoArea.navbar{
+	width: 100vw;
+	position: fixed;
+	left: 0;
+	right: 0;
+	top :36px;
+	z-index: 100;
+}
+#welcomeLine{
+	z-index: 100;
+
+	width: 97vw;
+	background-color: white;
+
+	position: fixed;
+	left: 0;
+	right: 0;
+	top :0;
+	margin-left: 0;
+	padding: 8px;
+}
+body{
+	padding-top: 110px;
+}
+.search-bar{
+	height: auto;
+
+}
+
+
+.carousel-control {
+	width: 35px !important;
+    height: 35px !important;
+    
+    font-size: 30px !important;
+     border: none !important;
+     opacity: 1;
+     background-color: rgba(255,255,255,0.7) !important;
+     color: #002A80;
+}
+.search-bar form{
+	background-color: white;
+	border: 1px solid black;
+	border-radius: 5px;
+	width: 400px;
+	height: 100% !important;
+	line-height: 100%;
+	margin: 0;
+	vertical-align: middle;
+	margin:1.1% 0;
+}
+.row-fluid{
+	width:95%;
+	margin: auto;
+}
+
+.search-bar #srchFld{
+	border: 1px;
+	background-color: transparent;
+	width: 70% !important;
+	padding:0;
+	box-shadow: none !important;
+}
+.search-bar .srchTxt{
+	background-color: transparent;
+	width: 15% !important;
+	padding:0;
+	border-color: grey;
+	border-width: 0px 1px 0px  0px ;
+
+}
+.search-bar button{
+	width: 10%;
+
+}
+#submitButton{
+	float: right;
+}
+.navbar-inner{
+	background-color: #6B1A55;
+	background-image: none;
+
+}
+.btn{
+	background-color: transparent;
+	background-image: none;
+	border:2px solid #6B1A55;
+	border-radius: 0;
+	color: #6B1A55;
+}
+.btn.btn-primary.login-btn,.btn.btn-success.login-btn{
+	background-color: transparent;
+	background-image: none;
+	border-radius: 3px;
+	color: white;
+	border:2px solid rgba(255,255,255,0.8);
+
+
+
+}
+.btn.btn-primary,.btn.btn-success{
+	background-color: #6B1A55;
+	background-image: none;
+	border-radius: 3px;
+	color: white;
+	border:2px solid rgba(255,255,255,0.8);
+
+
+
+}
+.btn.btn-primary:hover,.btn.btn-success:hover,.btn.btn-primary:active,.btn.btn-success:hover{
+	background-color: transparent;
+	background-image: none;
+	color: #6B1A55;
+	border:2px solid #6B1A55;
+
+
+
+}
+.btn.btn-primary.login-btn:hover,.btn.btn-primary.login-btn:active,.btn.btn-success.login-btn:hover{
+	background-color: transparent;
+	background-image: none;
+	border:2px solid rgba(255,255,255,1);
+
+}
+
+.btn.btn-success.login-btn:hover{
+	border:2px solid rgba(255,255,255,1);
+	background-image: none;
+	
+    color: rgba(255,255,255,0.6);
+
+}
